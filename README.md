@@ -34,3 +34,10 @@ This is the list of all android topics for developers
 7. [FlexboxLayout](https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html)
 8. [CoordinatorLayout](http://guides.codepath.com/android/handling-scrolls-with-coordinatorlayout)
 9. ~~[PercentRelativeLayout](https://developer.android.com/reference/android/support/percent/PercentRelativeLayout.html)~~
+
+# [Pass object with in Activities](http://alexzh.com/uncategorized/passing-object-by-intent/)
+1. [Parcelable](https://www.sitepoint.com/transfer-data-between-activities-with-android-parcelable/)
+2. [Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
+3. [Gson](https://stackoverflow.com/questions/21761438/how-to-pass-gson-serialised-object-to-intent-in-android)
+4. [Otto EventBus](http://www.vogella.com/tutorials/JavaLibrary-EventBusOtto/article.html)
+5. [Singleton](https://stackoverflow.com/questions/16517702/singleton-in-android)
