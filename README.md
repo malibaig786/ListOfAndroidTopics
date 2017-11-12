@@ -30,14 +30,15 @@ This is the list of all android topics for developers
 3. [RelativeLayout](https://developer.android.com/guide/topics/ui/layout/relative.html)
 4. [TableLayout](https://developer.android.com/guide/topics/ui/layout/grid.html)
 5. [GridLayout](https://developer.android.com/reference/android/widget/GridLayout.html)
-6. [ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
-7. [FlexboxLayout](https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html)
-8. [CoordinatorLayout](http://guides.codepath.com/android/handling-scrolls-with-coordinatorlayout)
+6. [CoordinatorLayout](http://guides.codepath.com/android/handling-scrolls-with-coordinatorlayout)
+7. [ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
+8. [FlexboxLayout](https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html)
 9. ~~[PercentRelativeLayout](https://developer.android.com/reference/android/support/percent/PercentRelativeLayout.html)~~
 
-# [Pass object with in Activities](http://alexzh.com/uncategorized/passing-object-by-intent/)
+# [Pass objects between Activities](http://alexzh.com/uncategorized/passing-object-by-intent/)
 1. [Parcelable](https://www.sitepoint.com/transfer-data-between-activities-with-android-parcelable/)
 2. [Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 3. [Gson](https://stackoverflow.com/questions/21761438/how-to-pass-gson-serialised-object-to-intent-in-android)
-4. [Otto EventBus](http://www.vogella.com/tutorials/JavaLibrary-EventBusOtto/article.html)
+4. [Bus](http://www.vogella.com/tutorials/JavaLibrary-EventBusOtto/article.html)
+   [EventBus](http://greenrobot.org/eventbus/) ~~[Otto](http://square.github.io/otto/)~~ 
 5. [Singleton](https://stackoverflow.com/questions/16517702/singleton-in-android)
