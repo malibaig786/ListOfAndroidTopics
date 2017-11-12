@@ -44,3 +44,9 @@ i) [EventBus](http://greenrobot.org/eventbus/)
 ii) [RxBus](https://blog.kaush.co/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/) 
 iii)~~[Otto](http://square.github.io/otto/)~~ 
 5. [Singleton](https://stackoverflow.com/questions/16517702/singleton-in-android)
+
+# Database
+1. [SQLite](https://www.sqlite.org/) [Documentation](https://www.sqlite.org/quickstart.html)
+2. [Realm](https://realm.io/) [Documentation](https://realm.io/docs/)
+3. [Objectbox](http://objectbox.io/) [Documentation](http://objectbox.io/documentation/introduction/)
+
