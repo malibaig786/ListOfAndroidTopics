@@ -39,7 +39,7 @@ This is the list of all android topics for developers
 1. [Parcelable](https://www.sitepoint.com/transfer-data-between-activities-with-android-parcelable/)
 2. [Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 3. [Gson](https://stackoverflow.com/questions/21761438/how-to-pass-gson-serialised-object-to-intent-in-android)
-4. [Bus]
+4. Bus
 i) [EventBus](http://greenrobot.org/eventbus/)
 ii) [RxBus](https://blog.kaush.co/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/) 
 iii)~~[Otto](http://square.github.io/otto/)~~ 
