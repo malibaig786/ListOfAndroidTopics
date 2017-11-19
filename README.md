@@ -46,13 +46,13 @@ iii)~~[Otto](http://square.github.io/otto/)~~
 5. [Singleton](https://stackoverflow.com/questions/16517702/singleton-in-android)
 
 # Database
-## 1. [SQLite](https://www.sqlite.org/) ### [Doc](https://www.sqlite.org/quickstart.html)
+## 1. [SQLite](https://www.sqlite.org/) [(Doc)](https://www.sqlite.org/quickstart.html)
 1) [SQLDelight](https://github.com/square/sqldelight/)
 2) [SQLBrite](https://github.com/square/sqlbrite)
 3) [SQLBrite DAO](https://github.com/sockeqwe/sqlbrite-dao)
 4) [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
 5) [Android SQLite support library](https://github.com/requery/sqlite-android)
 
-## 2. [Realm](https://realm.io/)  ### [Doc](https://realm.io/docs/)
-## 3. [Objectbox](http://objectbox.io/) ### [Doc](http://objectbox.io/documentation/introduction/)
+## 2. [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
+## 3. [Objectbox](http://objectbox.io/) [(Doc)](http://objectbox.io/documentation/introduction/)
 
