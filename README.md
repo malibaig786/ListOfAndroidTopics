@@ -58,7 +58,6 @@ iii)~~[Otto](http://square.github.io/otto/)~~
 
 # Build Tools
 1) [Gradle](https://gradle.org/)
-2) [Buck](https://buckbuild.com/)
-[OkBuck](https://github.com/uber/okbuck)
+2) [Buck](https://buckbuild.com/) [(OkBuck)](https://github.com/uber/okbuck)
 3) [Bazel](https://bazel.build/)
 
