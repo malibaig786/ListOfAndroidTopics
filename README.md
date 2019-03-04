@@ -47,8 +47,8 @@ iii)~~[Otto](http://square.github.io/otto/)~~
 
 # Database
 ## 1. [SQLite](https://www.sqlite.org/) [(Doc)](https://www.sqlite.org/quickstart.html)
-1) [SQLDelight](https://github.com/square/sqldelight/)
-2) [SQLBrite](https://github.com/square/sqlbrite)
+1) [SQLDelight: SQLDelight generates typesafe APIs from your SQL statements. Can be used in Multiplateform code.](https://github.com/square/sqldelight/)
+2) ~~[SQLBrite: lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations. ](https://github.com/square/sqlbrite/#deprecated)~~
 3) [SQLBrite DAO](https://github.com/sockeqwe/sqlbrite-dao)
 4) [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
 5) [Android SQLite support library](https://github.com/requery/sqlite-android)
