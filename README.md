@@ -50,8 +50,8 @@ iii)~~[Otto](http://square.github.io/otto/)~~
 1) [SQLDelight: SQLDelight generates typesafe APIs from your SQL statements. Can be used in Multiplateform code.](https://github.com/square/sqldelight/)
 2) ~~[SQLBrite: lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations. ](https://github.com/square/sqlbrite/#deprecated)~~
 3) [SQLBrite DAO](https://github.com/sockeqwe/sqlbrite-dao)
-4) [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
-5) [Android SQLite support library](https://github.com/requery/sqlite-android)
+4) [android-database-sqlcipher: Encrypted your DB](https://github.com/sqlcipher/android-database-sqlcipher)
+5) [Android SQLite support library:Library wrapping latest versions of SQLite, so you can have latest and greatest version (same version) of SQLite on all devices](https://github.com/requery/sqlite-android)
 
 ## 2. [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
 ## 3. [Objectbox](http://objectbox.io/) [(Doc)](http://objectbox.io/documentation/introduction/)
