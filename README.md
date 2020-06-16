@@ -14,6 +14,8 @@ This is the list of all android topics for developers
 # [BroadcastReceiver](https://developer.android.com/guide/components/broadcasts.html)
 
 # [ContentProvider](https://developer.android.com/guide/topics/providers/content-provider-basics.html)
+1. [Contacts Provider](https://developer.android.com/guide/topics/providers/contacts-provider)
+2. [Retrieve a list of contacts](https://developer.android.com/training/contacts-provider/retrieve-names)
 
 # [Fragments](https://developer.android.com/guide/components/fragments.html)
 1. [Fragment LifeCycle](https://developer.android.com/guide/components/fragments.html#Creating)
