@@ -50,7 +50,7 @@ iii)~~[Otto](http://square.github.io/otto/)~~
 # Database
 ## 1. [SQLite](https://www.sqlite.org/) [(Doc)](https://www.sqlite.org/quickstart.html)
 1) [SQLite versions according to Android API](https://developer.android.com/reference/android/database/sqlite/package-summary.html)
-2) [Android SQLite support library: Library wrapping latest versions of SQLite, so you can have latest and greatest version same version of SQLite on all devices] (https://github.com/requery/sqlite-android)
+1) [Android SQLite support library: Library wrapping latest versions of SQLite so you can have latest and greatest version same version of SQLite on all devices](https://github.com/requery/sqlite-android)
 3) [Room Database Explorer: A library with which you can view your DB inside the App. ](https://wajahatkarim.com/2019/12/exploring-room-explorer/)[(GITHUB)](https://github.com/wajahatkarim3/RoomExplorer)
 4) [Large Database Queries on Android (Read if your sqlite query is taking very long)](https://medium.com/androiddevelopers/large-database-queries-on-android-cb043ae626e8) 
 5) [SQLDelight: SQLDelight generates typesafe APIs from your SQL statements. Can be used in Multiplateform code.](https://github.com/square/sqldelight/)
